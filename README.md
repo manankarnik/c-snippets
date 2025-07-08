@@ -8,12 +8,13 @@ The run script uses `gcc` to compile C code.
 
 ## List of Files
 
-| File Name                      | Description                              |
-|--------------------------------|------------------------------------------|
-| [hello.c](hello.c)             | Hello world!                             |
-| [write_file.c](write_file.c)   | Write text to a file.                    |
-| [list.c](list.c)               | Simple dynamically growing generic list. |
-| [linked_list.c](linked_list.c) | Implementation of a singly linked list.  |
+| File Name                          | Description                              |
+| ---------------------------------- | ---------------------------------------- |
+| [hello.c](hello.c)                 | Hello world!                             |
+| [write_file.c](write_file.c)       | Write text to a file.                    |
+| [list.c](list.c)                   | Simple dynamically growing generic list. |
+| [linked_list.c](linked_list.c)     | Implementation of a singly linked list.  |
+| [binary_search.c](binary_search.c) | Implementation of binary search.         |
 
 ## Usage
 
