@@ -15,6 +15,7 @@ The run script uses `gcc` to compile C code.
 | [list.c](list.c)                   | Simple dynamically growing generic list. |
 | [linked_list.c](linked_list.c)     | Implementation of a singly linked list.  |
 | [binary_search.c](binary_search.c) | Implementation of binary search.         |
+| [dynamic_array.c](dynamic_array.c) | Simple dynamic integer array.            |
 
 ## Usage
 
