@@ -17,19 +17,20 @@ The run script uses `gcc` to compile C code.
 | [binary_search.c](binary_search.c) | Implementation of binary search.         |
 | [dynamic_array.c](dynamic_array.c) | Simple dynamic integer array.            |
 | [quicksort.c](quicksort.c)         | Implementation of quicksort.             |
+| [heap.c](heap.c)                   | Implementation of min and max heap.      |
 
 ## Usage
 
 ### Clone Repo
 
-```console
-$ git clone https://github.com/manankarnik/c-snippets
+```sh
+git clone https://github.com/manankarnik/c-snippets
 ```
 
 ### Run File
 
 Run the file by supplying the file name to run.sh **without** it's extension.
 
-```console
-$ ./run.sh <filename>
+```sh
+./run.sh <filename>
 ```
